@@ -80,6 +80,13 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/thuchanhtaoMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/[Thực hành] Đảo ngược các phần tử trong mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/Mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/daonguocMang.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/[Thực hành]Kiểm tra năm nhuận.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/modules.xml" afterDir="false" />
@@ -92,6 +99,8 @@
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +124,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/daonguocMang.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668567608459</updated>
-      <workItem from="1668567609889" duration="3772000" />
+      <workItem from="1668567609889" duration="7065000" />
     </task>
     <servers />
   </component>
